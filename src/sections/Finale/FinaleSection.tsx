@@ -117,3 +117,4 @@ export const FinaleSection: React.FC<FinaleSectionProps> = ({ onReplay }) => {
     </section>
   );
 };
+

@@ -172,3 +172,4 @@ export const BirthdaySection: React.FC = () => {
     </section>
   );
 };
+

@@ -9,6 +9,7 @@ import { BirthdaySection } from '@/sections/Birthday/BirthdaySection';
 import { AnniversarySection } from '@/sections/Anniversary/AnniversarySection';
 import { FinaleSection } from '@/sections/Finale/FinaleSection';
 import { AudioPlayer } from '@/components/audio/AudioPlayer';
+import { MobileNav } from '@/components/ui/MobileNav';
 import { Heart } from 'lucide-react';
 import { siteConfig } from '@/config/site';
 
@@ -114,6 +115,9 @@ export const App: React.FC = () => {
 
           {/* SECTION 09: THE FINAL SURPRISE & FINALE (PHASE 9) */}
           <FinaleSection onReplay={handleReplay} />
+
+          {/* Mobile Navigation Quick-Jump Dock */}
+          <MobileNav />
 
           {/* Elegant Footer */}
           <footer className="w-full py-16 px-6 text-center border-t border-white/10 bg-[#05020a] text-[#FFF7FC]/60">

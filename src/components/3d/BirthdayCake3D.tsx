@@ -183,3 +183,4 @@ export const BirthdayCake3D: React.FC<BirthdayCake3DProps> = ({ isBlown, onBlowC
     </group>
   );
 };
+

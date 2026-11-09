@@ -120,3 +120,4 @@ export const InfinityAnniversary3D: React.FC<InfinityAnniversary3DProps> = ({ sc
     </group>
   );
 };
+

@@ -85,3 +85,4 @@ You can add your real photographs anytime by simply dropping them into the corre
 - Place your romantic background song at:
   `public/audio/romantic-instrumental.mp3`
 - If no MP3 is placed, the website automatically uses its built-in Web Audio romantic synthesizer fallback so that lovely romantic chords play seamlessly without any silence.
+
