@@ -58,3 +58,4 @@ export const favouriteMoments = [
     accent: "#5BA8E8"
   }
 ];
+

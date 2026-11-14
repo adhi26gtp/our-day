@@ -68,3 +68,4 @@ export const loveNotes = [
     color: "#D4ECFF"
   }
 ];
+

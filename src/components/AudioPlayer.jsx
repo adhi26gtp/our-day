@@ -119,3 +119,4 @@ export const AudioPlayer = ({ isPlaying, onTogglePlay }) => {
     </div>
   );
 };
+

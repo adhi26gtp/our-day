@@ -94,3 +94,4 @@ export const timelineEvents = [
     image: "/images/chibi/chibi_birthday_cake.png"
   }
 ];
+

@@ -264,3 +264,4 @@ export const OpeningEnvelope = ({ onOpenComplete }) => {
     </div>
   );
 };
+
